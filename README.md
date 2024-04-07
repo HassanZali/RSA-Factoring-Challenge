@@ -1,2 +1,1 @@
-# RSA-Factoring-Challenge
-ALX Factoring challenge Repo
+ALX: Factoring challenge Repo
